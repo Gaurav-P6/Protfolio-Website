@@ -17,42 +17,6 @@ This project focuses on clean UI, smooth animations, and a modular code structur
 
 ---
 
-## 📁 Project Structure
-
-```
-project/
-│
-├── index.html
-│
-├── css/
-│   ├── style.css
-│   ├── base.css
-│   ├── layout.css
-│   ├── home.css
-│   ├── about.css
-│   ├── skills.css
-│   ├── projects.css
-│   └── contact.css
-│
-├── js/
-│   ├── main.js
-│   ├── loadSections.js
-│   ├── cursor.js
-│   ├── tiltCards.js
-│   ├── scrollReveal.js
-│   ├── backToTop.js
-│   └── contact.js
-│
-└── sections/
-    ├── home.html
-    ├── about.html
-    ├── skills.html
-    ├── projects.html
-    └── contact.html
-
-
----
-
 ## 🛠️ Technologies Used
 
 * HTML5
