@@ -31,21 +31,12 @@ This project focuses on clean UI, smooth animations, and a modular code structur
 
 ---
 
-## 📌 Future Improvements
-
-* Add Three.js for advanced 3D graphics
-* Improve animations and transitions
-* Add project filtering system
-* Integrate backend for contact form
-
----
-
 ## 👨‍💻 Author
 
 Gaurav Pathak
 
-* GitHub: https://github.com/your-username
-* LinkedIn: Add your link
+* GitHub: https://github.com/Gaurav-P6
+* LinkedIn: www.linkedin.com/in/gaurav-pathak0610
 
 ---
 
