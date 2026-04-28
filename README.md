@@ -27,7 +27,7 @@ This project focuses on clean UI, smooth animations, and a modular code structur
 
 ## 🌐 Live Demo
 
-👉 Add your GitHub Pages link here after deployment
+👉 https://gaurav-p6.github.io/Protfolio-Website/
 
 ---
 
