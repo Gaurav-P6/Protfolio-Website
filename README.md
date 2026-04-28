@@ -20,8 +20,8 @@ This project focuses on clean UI, smooth animations, and a modular code structur
 ## 🛠️ Technologies Used
 
 * HTML5
-* CSS3 (Flexbox, Grid, Animations)
-* JavaScript (ES Modules)
+* CSS3 
+* JavaScript 
 
 ---
 
